@@ -42,6 +42,11 @@
 	margin-top: 20px;
 }
 
+iframe {
+	width: 420px;
+	height: 315px;
+}
+
 @media only screen and (max-width: 500px) {
   iframe {
 	  width: 340px;
